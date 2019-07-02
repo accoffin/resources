@@ -1,0 +1,21 @@
+body {
+    background: lemonchiffon;
+}
+
+h1 {
+    color: red;
+}
+
+p {
+    font-family: sans-serif;
+}
+
+header p {
+    color: blue;
+    text-align: center;
+    font-weight: bold;
+}
+
+h1, h2 {
+    text-align: center;
+}

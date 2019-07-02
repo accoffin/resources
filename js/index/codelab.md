@@ -1,0 +1,11 @@
+# Learn JavaScript
+
+## Schedule
+
+|          |                   |                                                                                                                                                                                                                                                                                    |
+| -------- | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Week** | **Chapter**       | **Resources**                                                                                                                                                                                                                                                                      |
+| 1        | JavaScript Basics | Exercises: [Your First Project](../js-first-project/), [Meet the Puppy](../js-meet-the-puppy/), [Best New Ice Cream Combination](../js-best-new-icecream/), [Letter from the Queen](../js-letter-from-the-queen/). Assignment: [Personalized Stories](../js-personalized-stories/) |
+| 2        | Branching Off     | Exercises: [Get in the Game!](../js-get-in-the-game/), [You Call That a Pony?](../js-you-call-that-a-pony/), [Não Compreendo](../js-nao-compreendo/). Assignments: [Taboo!](../js-taboo/), [Make a Choice](../js-make-a-choice/)                                                  |
+| 3        | Collections       | Exercises: [Kangaroo Kiosk](../js-kangaroo-kiosk/), [List Indices](../js-list-indices/), [Is It a Reptile? ](../js-is-it-a-reptile/), [Buy! Buy! Buy! Sell! Sell! Sell!](../js-buy-buy-buy/).                                                                                      |
+| 4        | Reusing Code      | Exercises: [Will the Name Fit?](../js-will-the-name-fit/), [TL;DR](../js-tl-dr/). Assignment: [Random Story](../js-random-story/)                                                                                                                                                  |

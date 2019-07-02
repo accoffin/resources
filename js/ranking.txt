@@ -1,0 +1,20 @@
+js-first-project
+
+js-meet-the-puppy
+js-best-new-icecream
+js-letter-from-the-queen
+
+js-get-in-the-game
+js-you-call-that-a-pony
+js-nao-compreendo
+js-taboo
+
+js-kangaroo-kiosk
+js-list-indices
+js-is-it-a-reptile
+js-buy-buy-buy
+
+js-will-the-name-fit
+js-tl-dr
+
+{ py-personalized-stories, madlibs-camp, py-make-a-choice, py-random-story }

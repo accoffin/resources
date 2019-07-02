@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+/* Site header styles */
+
+#site-header {
+    background: #2600FA;
+    text-align: center;
+}
+
+#site-header div {
+    text-align: center;
+    border-bottom: 2px solid #483CFF;
+}
+
+#site-header h1 {
+    color: #BCF2EB;
+    padding: 8% 0;
+}
+
+#site-header a {
+    color: white;
+    padding: 2%;
+    display: inline-block;
+    font-size: 1.15em;
+}
+
+#current-page {
+    font-weight: bold;
+}
+
+/* Site content styles */
+#main-content {
+    margin: 8% 15%;
+}
+
+#main-content article {
+    margin-bottom: 8%;
+}
+
+.publication-date {
+    color: gray;
+}

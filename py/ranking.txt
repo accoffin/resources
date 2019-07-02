@@ -1,0 +1,12 @@
+py-getting-started
+py-exercises-1
+py-how-good-is-your-vocab
+
+py-exercises-2
+py-forgotten-attachment
+
+py-exercises-3
+py-bird-watching
+
+py-exercises-4
+py-send-me-an-email

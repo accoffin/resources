@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+    background: #251f3c;
+    color: #a2ffe0;
+}
+
+header {
+    text-align: center;
+}
+
+header, h1, h2 {
+    color: white;
+}
+
+a {
+    color: #51ffd8;
+    font-weight: bold;
+}
+
+p {
+    color: #e2ccff;
+}
+
+footer p {
+    color: #7c6faf;
+    text-align: right;
+}
